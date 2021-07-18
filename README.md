@@ -9,11 +9,10 @@
 2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):  ✅
 * Main: Introduction Sequence
 * Remote: Push & Pull -- Git Remotes
+
 ![Result_Main](/img/Main.png)
 ![Result_Remote](/img/Remote.png)
 
 # Linux, Command Line, HTTP Tools
-
-Learn some command line, server and http tools.
 
 1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
