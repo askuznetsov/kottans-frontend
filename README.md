@@ -6,7 +6,7 @@
 
 ![Result](/img/Version%20Control%20Git.png)
 
-2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):
+2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):  ✅
 * Main: Introduction Sequence
 * Remote: Push & Pull -- Git Remotes
 ![Result_Main](/img/Main.png)
