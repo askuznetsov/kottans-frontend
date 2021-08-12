@@ -6,7 +6,7 @@
 
 ![Result](/img/Version%20Control%20Git.png)
 
-2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/):  ✅
+2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/): ✅
 * Main: Introduction Sequence
 * Remote: Push & Pull -- Git Remotes
 
@@ -25,3 +25,16 @@
 2. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) ✅
 
 3. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) ✅
+
+# Git Collaboration
+
+1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) ✅
+
+![GitHub&Collaboration](/task_git_collaboration/GitHub&Collaboration.png)
+
+2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/): ✅
+* Main: Ramping Up, Moving Work Around
+* Remote: To Origin and Beyond
+
+![main](/task_git_collaboration/main.png)
+![remote](/task_git_collaboration/remote.png)
