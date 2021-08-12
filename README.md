@@ -17,7 +17,7 @@
 
 1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) ✅
 
-![Quiz1](/img/Quiz1.png)
-![Quiz2](/img/Quiz2.png)
-![Quiz3](/img/Quiz3.png)
-![Quiz4](/img/Quiz4.png)
+![Quiz1](/task_linux_cli/Quiz1.png)
+![Quiz2](/task_linux_cli/Quiz2.png)
+![Quiz3](/task_linux_cli/Quiz3.png)
+![Quiz4](/task_linux_cli/Quiz4.png)
