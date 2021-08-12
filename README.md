@@ -13,7 +13,7 @@
 ![Result_Main](/img/Main.png)
 ![Result_Remote](/img/Remote.png)
 
-# Linux, Command Line, HTTP Tools
+# Linux CLI, and HTTP
 
 1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) ✅
 
@@ -21,3 +21,7 @@
 ![Quiz2](/task_linux_cli/Quiz2.png)
 ![Quiz3](/task_linux_cli/Quiz3.png)
 ![Quiz4](/task_linux_cli/Quiz4.png)
+
+2. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) ✅
+
+3. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) ✅
