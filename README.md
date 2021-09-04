@@ -58,3 +58,10 @@ I am using HTML and CSS at my work. So, it was just a good enough reinforcement 
 ![udacity](/task_html_css_intro/udacity.png)
 ![html](/task_html_css_intro/HTML.png)
 ![css](/task_html_css_intro/CSS.png)
+
+# Responsive Web Design
+
+Responsive web design is an extremely important knowledge and I am glad that i got such a lot of useful information.
+
+![udacity](/task_responsive_web_design/responsive_udacity.png)
+![froggy](/task_responsive_web_design/froggy.png)
