@@ -53,15 +53,28 @@ The assignments were interesting and challenging. I have improved my skills well
 
 # Intro to HTML and CSS
 
-I am using HTML and CSS at my work. So, it was just a good enough reinforcement of my knowledge.
+1. [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304) ✅
+
+I am using HTML and CSS quite often. So, it was just a good enough reinforcement of my knowledge.
 
 ![udacity](/task_html_css_intro/udacity.png)
+
+2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html) ✅
+
 ![html](/task_html_css_intro/HTML.png)
+
+3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css) ✅
+
 ![css](/task_html_css_intro/CSS.png)
 
 # Responsive Web Design
 
-Responsive web design is an extremely important knowledge and I am glad that i got such a lot of useful information.
+1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) ✅
+
+Responsive web design is an extremely important knowledge and I am glad that I've got such a lot of useful information.
 
 ![udacity](/task_responsive_web_design/responsive_udacity.png)
+
+2. [Flexbox Froggy](http://flexboxfroggy.com/) ✅
+
 ![froggy](/task_responsive_web_design/froggy.png)
