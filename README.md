@@ -85,6 +85,6 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 
 4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
-![Grid](/task_responsive_web_design/CSS_Grid_layout.png)
+![Grid](/task_responsive_web_design/CSS_Grid_Layout.png)
 
 5. [Grid Garden](http://cssgridgarden.com/) 
