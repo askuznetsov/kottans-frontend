@@ -77,6 +77,12 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 
 ![udacity](/task_responsive_web_design/responsive_udacity.png)
 
-2. [Flexbox Froggy](http://flexboxfroggy.com/) ✅
+2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+
+3. [Flexbox Froggy](http://flexboxfroggy.com/) ✅
 
 ![froggy](/task_responsive_web_design/froggy.png)
+
+4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+
+5. [Grid Garden](http://cssgridgarden.com/) 
