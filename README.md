@@ -71,6 +71,8 @@ I am using HTML and CSS quite often. So, it was just a good enough reinforcement
 
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) ✅
 
+    [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) ✅
+
 Responsive web design is an extremely important knowledge and I am glad that I've got such a lot of useful information.
 
 ![udacity](/task_responsive_web_design/responsive_udacity.png)
