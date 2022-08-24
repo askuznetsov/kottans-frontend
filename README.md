@@ -83,7 +83,7 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 
 ![froggy](/task_responsive_web_design/froggy.png)
 
-4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) ✅
 
 ![Grid](/task_responsive_web_design/CSS_Grid_Layout.png)
 
