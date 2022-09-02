@@ -79,6 +79,8 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 
 2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
+![FLEXBOX](/task_responsive_web_design/FLEXBOX. Вчимося верстати на флексах.png)
+
 3. [Flexbox Froggy](http://flexboxfroggy.com/) ✅
 
 ![froggy](/task_responsive_web_design/froggy.png)
