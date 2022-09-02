@@ -89,4 +89,6 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 
 ![Grid](/task_responsive_web_design/CSS_Grid_Layout.png)
 
-5. [Grid Garden](http://cssgridgarden.com/) 
+5. [Grid Garden](http://cssgridgarden.com/) ✅
+
+[!Garden](/task_responsive_web_design/Grid_Garden.png)
