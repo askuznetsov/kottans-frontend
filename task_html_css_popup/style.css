@@ -1,3 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: #d0d0ce;
 }
+
+.container {
+  margin: 24px 24px;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.list_item {
+  height: 24px;
+}
+.list_item_img {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}/*# sourceMappingURL=style.css.map */
