@@ -1,29 +1,38 @@
 $color-main: #d0d0ce;
 
-* {
+*,
+*::after,
+*::before {
   margin: 0;
   padding: 0;
+  box-sizing: inherit;
 }
 
 body {
   background-color: $color-main;
+  box-sizing: border-box;
 }
 
-.container {
+.header {
   margin: 24px 24px;
-}
 
-.list {
-  list-style-type: none;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  &__nav {
+    display: block;
+    padding: 8px;
 
-  &_item {
-    height: 24px;
+    &__list {
+      list-style-type: none;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
 
-    &_img {
-      width: fit-content;
+      &_item {
+        height: 24px;
+
+        &_img {
+          width: 10px;
+        }
+      }
     }
   }
 }
