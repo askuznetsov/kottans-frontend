@@ -27,6 +27,11 @@ body {
 .header__nav__list__item {
   height: 24px;
 }
+.header__nav__list__item__image {
+  vertical-align: middle;
+  padding-bottom: 4px;
+}
+
 .title {
   font-size: 24px;
   line-height: 14px;
@@ -78,6 +83,28 @@ body {
 
 .additional {
   margin-bottom: 24px;
+}
+
+#popup__checkbox,
+#more__checkbox {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  /* ALTERNATIVE VARIANT */
+  /* -webkit-appearance: none; */
+}
+
+.header__nav__list__item__label:hover,
+.header__nav__list__item__checkbox:checked + .header__nav__list__item__label,
+.header__nav__list__item__checkbox:focus + .header__nav__list__item__label,
+.header__nav__list__item__checkbox:focus:checked + .header__nav__list__item__label {
+  border: 2px solid royalblue;
+  padding: 3px;
+  border-radius: 10px;
+  outline: transparent;
+  transition: all 0.3s ease-out;
 }
 
 @media only screen and (max-width: 500px) {
