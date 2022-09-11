@@ -45,6 +45,7 @@ body {
   width: 400px;
   height: 500px;
   background-color: white;
+  padding: 24px;
 }
 
 .menu {
@@ -61,12 +62,15 @@ body {
     &__link {
       display: contents;
       &__image {
-        width: 10%;
+        width: 33%;
+        align-self: center;
+        margin-bottom: 8px;
       }
     }
 
     &__text {
-      width: fit-content;
+      width: 100%;
+      text-align: center;
     }
   }
 }
