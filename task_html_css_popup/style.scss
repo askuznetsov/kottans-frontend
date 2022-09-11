@@ -44,6 +44,7 @@ body {
 .popup {
   background-color: white;
   padding: 24px;
+  border-radius: 3px;
 }
 
 .menu {
@@ -61,12 +62,22 @@ body {
     &__link {
       display: block;
       text-align: center;
+      transition: all 0.3s ease-out;
 
       &__image {
         align-self: center;
         margin-bottom: 8px;
         width: auto;
         height: 42px;
+      }
+
+      &:focus,
+      &:hover,
+      &:active {
+        border: 2px solid royalblue;
+        padding: 3px;
+        border-radius: 10px;
+        outline: transparent;
       }
     }
 
