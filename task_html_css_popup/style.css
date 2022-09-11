@@ -40,10 +40,23 @@ body {
 
 .menu {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 .menu__item {
   display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 33%;
+}
+.menu__item__link {
+  display: contents;
 }
 .menu__item__link__image {
   width: 10%;
+}
+.menu__item__text {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
 }/*# sourceMappingURL=style.css.map */

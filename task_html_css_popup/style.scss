@@ -49,14 +49,24 @@ body {
 
 .menu {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 
   &__item {
     display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 33%;
 
     &__link {
+      display: contents;
       &__image {
         width: 10%;
       }
+    }
+
+    &__text {
+      width: fit-content;
     }
   }
 }
