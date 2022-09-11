@@ -47,6 +47,8 @@ body {
   background-color: white;
   padding: 24px;
   border-radius: 3px;
+
+  display: none;
 }
 
 .menu {
@@ -122,6 +124,22 @@ body {
   outline: transparent;
 
   transition: all 0.3s ease-out;
+}
+
+.header__nav__list__item__checkbox:checked ~ .popup {
+  display: block;
+}
+
+#more__checkbox:checked + .more__checkbox__label {
+  display: none;
+}
+
+.additional {
+  display: none;
+}
+
+#more__checkbox:checked ~ .additional {
+  display: flex;
 }
 
 @media only screen and (max-width: 500px) {
