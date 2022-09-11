@@ -49,9 +49,11 @@ body {
   flex-direction: column;
   justify-content: space-around;
   width: 33%;
+  margin-bottom: 24px;
 }
 .menu__item__link {
-  display: contents;
+  display: block;
+  text-align: center;
 }
 .menu__item__link__image {
   width: 33%;
@@ -61,4 +63,8 @@ body {
 .menu__item__text {
   width: 100%;
   text-align: center;
+}
+
+.additional {
+  margin-bottom: 8px;
 }/*# sourceMappingURL=style.css.map */
