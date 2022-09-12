@@ -33,6 +33,10 @@ body {
         height: 24px;
         margin: 24px;
 
+        &:hover {
+          cursor: pointer;
+        }
+
         &__image {
           vertical-align: middle;
           padding-bottom: 4px;
@@ -43,7 +47,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 1130px) {
+@media only screen and (max-width: 1200px) {
   .header {
     &__nav {
       &__list {
@@ -121,8 +125,13 @@ body {
   &__link {
     display: block;
     text-align: center;
-    background-color: $color-main;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: linear-gradient(90deg, $color-main 0%, $color-secondary 100%);
     margin-top: 24px;
+    padding: 24px;
   }
 }
 
@@ -135,7 +144,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 355px) {
+@media only screen and (max-width: 995px) {
   .popup-svg {
     order: 1;
   }
@@ -167,6 +176,8 @@ body {
   border-radius: 10px;
   outline: transparent;
 
+  cursor: pointer;
+
   transition: all 0.3s ease-out;
 }
 
@@ -180,6 +191,24 @@ body {
 
 .additional {
   display: none;
+}
+
+#more__checkbox:focus + .more__checkbox__label {
+  border: $border-main;
+  padding: 3px;
+  border-radius: 10px;
+  outline: transparent;
+
+  transition: all 0.3s ease-out;
+}
+
+.more__checkbox__label:focus {
+  border: $border-main;
+  padding: 3px;
+  border-radius: 10px;
+  outline: transparent;
+
+  transition: all 0.3s ease-out;
 }
 
 #more__checkbox:checked ~ .additional {
