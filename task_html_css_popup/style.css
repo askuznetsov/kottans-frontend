@@ -139,8 +139,6 @@ body {
   height: 1px;
   overflow: hidden;
   clip: rect(0 0 0 0);
-  /* ALTERNATIVE VARIANT */
-  /* -webkit-appearance: none; */
 }
 
 .header__nav__list__item__label:hover,
