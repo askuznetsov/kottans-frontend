@@ -48,7 +48,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin-bottom: 24px;
 }
 .menu__item {
   display: flex;
@@ -94,7 +93,7 @@ body {
 }
 
 .additional {
-  margin-bottom: 24px;
+  margin: 24px 0;
 }
 
 #popup__checkbox,
@@ -133,6 +132,17 @@ body {
 
 #more__checkbox:checked ~ .additional {
   display: flex;
+}
+
+.horizontal-line {
+  display: none;
+  width: 100%;
+  background-color: #d0d0ce;
+  height: 2px;
+}
+
+#more__checkbox:checked ~ .horizontal-line {
+  display: inline-block;
 }
 
 @media only screen and (max-width: 500px) {
