@@ -1,5 +1,6 @@
 $color-main: #d0d0ce;
-$border-main: 2px solid royalblue;
+$color-secondary: royalblue;
+$border-main: 2px solid $color-secondary;
 
 *,
 *::after,
@@ -98,6 +99,15 @@ body {
     text-align: center;
     background-color: $color-main;
     margin-top: 24px;
+  }
+}
+
+.more__checkbox__label {
+  font-size: 24px;
+  color: $color-secondary;
+
+  &:hover {
+    cursor: pointer;
   }
 }
 

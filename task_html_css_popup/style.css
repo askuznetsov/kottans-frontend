@@ -85,6 +85,14 @@ body {
   margin-top: 24px;
 }
 
+.more__checkbox__label {
+  font-size: 24px;
+  color: royalblue;
+}
+.more__checkbox__label:hover {
+  cursor: pointer;
+}
+
 .additional {
   margin-bottom: 24px;
 }
