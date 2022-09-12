@@ -1,4 +1,5 @@
 $color-main: #d0d0ce;
+$border-main: 2px solid royalblue;
 
 *,
 *::after,
@@ -78,7 +79,7 @@ body {
       &:focus,
       &:hover,
       &:active {
-        border: 2px solid royalblue;
+        border: $border-main;
         padding: 3px;
         border-radius: 10px;
         outline: transparent;
@@ -94,6 +95,7 @@ body {
   &__link {
     display: block;
     text-align: center;
+    background-color: $color-main;
   }
 }
 
@@ -118,7 +120,7 @@ body {
 .header__nav__list__item__checkbox:focus + .header__nav__list__item__label,
 .header__nav__list__item__checkbox:focus:checked
   + .header__nav__list__item__label {
-  border: 2px solid royalblue;
+  border: $border-main;
   padding: 3px;
   border-radius: 10px;
   outline: transparent;
