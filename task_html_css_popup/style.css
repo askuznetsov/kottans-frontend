@@ -27,11 +27,14 @@ body {
 }
 .header__nav__list__item {
   height: 24px;
-  margin: 0px 24px 24px 0px;
+  margin: 24px;
 }
 .header__nav__list__item__image {
   vertical-align: middle;
   padding-bottom: 4px;
+  height: -webkit-fill-available;
+  height: -moz-available;
+  height: fill-available;
 }
 
 @media only screen and (max-width: 1130px) {
@@ -112,6 +115,11 @@ body {
   cursor: pointer;
 }
 
+@media only screen and (max-width: 355px) {
+  .popup-svg {
+    order: 1;
+  }
+}
 .additional {
   margin: 24px 0;
 }
