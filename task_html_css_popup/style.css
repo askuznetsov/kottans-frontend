@@ -48,6 +48,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  margin-bottom: 24px;
 }
 .menu__item {
   display: flex;
@@ -81,6 +82,7 @@ body {
   display: block;
   text-align: center;
   background-color: #d0d0ce;
+  margin-top: 24px;
 }
 
 .additional {
