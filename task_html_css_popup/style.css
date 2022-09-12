@@ -23,21 +23,41 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
 }
 .header__nav__list__item {
   height: 24px;
+  margin: 0px 24px 24px 0px;
 }
 .header__nav__list__item__image {
   vertical-align: middle;
   padding-bottom: 4px;
 }
 
+@media only screen and (max-width: 1130px) {
+  .header__nav__list {
+    justify-content: flex-start;
+  }
+}
 .title {
   font-size: 24px;
   line-height: 14px;
 }
 
+.arrow {
+  width: 12px;
+  height: 12px;
+  background-color: white;
+  position: absolute;
+  margin-left: -12px;
+  margin-top: -30px;
+  -webkit-clip-path: polygon;
+          clip-path: polygon;
+  transform: rotate(45deg);
+}
+
 .popup {
+  margin-top: 8px;
   background-color: white;
   padding: 24px;
   border-radius: 3px;
