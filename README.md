@@ -1,6 +1,6 @@
 ###### kottans-frontend
 
-# Git and GitHub
+# Git and GitHub ✅
 
 1. Finish the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) ✅
 
@@ -15,7 +15,7 @@ Initial git level that I already knew.
 ![Result_Main](/img/Main.png)
 ![Result_Remote](/img/Remote.png)
 
-# Linux CLI, and HTTP
+# Linux CLI, and HTTP ✅
 
 1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) ✅
 
@@ -34,7 +34,7 @@ Quite useful topic.
 
 It was really interesting.
 
-# Git Collaboration
+# Git Collaboration ✅
 
 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) ✅
 
@@ -51,7 +51,7 @@ The assignments were interesting and challenging. I have improved my skills well
 ![main](/task_git_collaboration/main.png)
 ![remote](/task_git_collaboration/remote.png)
 
-# Intro to HTML and CSS
+# Intro to HTML and CSS ✅
 
 1. [Intro to HTML & CSS (Eng)](https://www.udacity.com/course/intro-to-html-and-css--ud304) ✅
 
@@ -67,7 +67,7 @@ I am using HTML and CSS quite often. So, it was just a good enough reinforcement
 
 ![css](/task_html_css_intro/CSS.png)
 
-# Responsive Web Design
+# Responsive Web Design ✅
 
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) ✅
 
