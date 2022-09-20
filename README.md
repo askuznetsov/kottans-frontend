@@ -96,3 +96,5 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 # HTML CSS Popup
 
 ![HTML-CSS-Popup](/task_html_css_popup/html-css-popup.gif)
+
+# JavaScript Basics
