@@ -9,8 +9,9 @@ Initial git level that I already knew.
 ![Result](/img/Version%20Control%20Git.png)
 
 2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/): ✅
-* Main: Introduction Sequence
-* Remote: Push & Pull -- Git Remotes
+
+- Main: Introduction Sequence
+- Remote: Push & Pull -- Git Remotes
 
 ![Result_Main](/img/Main.png)
 ![Result_Remote](/img/Remote.png)
@@ -43,8 +44,9 @@ A fairly high level of understanding of the git has begun, which will be useful 
 ![GitHub&Collaboration](/task_git_collaboration/GitHub&Collaboration.png)
 
 2. Complete the following levels at [learngitbranching.js.org](https://learngitbranching.js.org/): ✅
-* Main: Ramping Up, Moving Work Around
-* Remote: To Origin and Beyond
+
+- Main: Ramping Up, Moving Work Around
+- Remote: To Origin and Beyond
 
 The assignments were interesting and challenging. I have improved my skills well.
 
@@ -71,7 +73,7 @@ I am using HTML and CSS quite often. So, it was just a good enough reinforcement
 
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) ✅
 
-    [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) ✅
+   [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) ✅
 
 Responsive web design is an extremely important knowledge and I am glad that I've got such a lot of useful information.
 
@@ -98,3 +100,5 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 ![HTML-CSS-Popup](/task_html_css_popup/html-css-popup.gif)
 
 # JavaScript Basics
+
+![Javascript Basics](/task_javascript_basics/JS_Basics.png)
