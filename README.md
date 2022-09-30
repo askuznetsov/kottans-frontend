@@ -101,4 +101,6 @@ Responsive web design is an extremely important knowledge and I am glad that I'v
 
 # JavaScript Basics
 
+1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
+
 ![Javascript Basics](/task_javascript_basics/JS_Basics.png)
